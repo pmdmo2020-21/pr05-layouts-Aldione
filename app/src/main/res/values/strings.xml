@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Layouts</string>
+    <string name="nameMovie">Beauty and the Beast</string>
+    <string name="movieData">March 2017 PG 129 minutes</string>
+    <string name="btnRent">RENT FOR 9,99$</string>
+    <string name="btnBuy">BUY FOR 29,99$</string>
+    <string name="tomato">71%</string>
+    <string name="rating">242 ratings</string>
+    <string name="family">Family</string>
+    <string name="similar">Similar</string>
+    <string name="information">The story and characters you know and love come to spectacular life in the lice-action adaption of Desney\'s animated classic Beauty and the Beast.</string>
 </resources>
